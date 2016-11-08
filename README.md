@@ -1,4 +1,4 @@
-egg-ci
+egg-ci   rw
 ---------------
 
 [![NPM version][npm-image]][npm-url]
